@@ -1,6 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <app>
-    <version>2.0.0.0</version> <!-- نسخه جدید -->
-    <url>https://release-assets.githubusercontent.com/github-production-release-asset/1337330184/151e4f86-6bcb-4392-8cae-45ddef4ae3ad?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-08-17T18%3A50%3A02Z&rscd=attachment%3B+filename%3Dimj.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-08-17T17%3A49%3A28Z&ske=2026-08-17T18%3A50%3A02Z&sks=b&skv=2018-11-09&sig=fIkC75B5p7LUoucKH0nkGPEPYKGdldOBr3k8zdiB3TM%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4Njk5MTYzMSwibmJmIjoxNzg2OTg5ODMxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.FuDyIdARrisZA2PLexO0OD6y_yxSLSHRzn3QVfJoWsk&response-content-disposition=attachment%3B%20filename%3Dimj.zip&response-content-type=application%2Foctet-stream</url> <!-- لینک دانلود فایل نصب جدید -->
-    <changelog>تغییرات اعمال شده در این نسخه</changelog>
-    <mandatory>false</mandatory> <!-- true: اجباری, false: اختیاری -->
+    <version>2.0.0.0</version>
+    <url>https://github.com/mohammadnasr88/updatetest/archive/refs/heads/main.zip</url>
+    <changelog>نسخه تست برای بررسی آپدیت</changelog>
+    <mandatory>false</mandatory>
 </app>
