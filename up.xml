@@ -1,0 +1,6 @@
+<app>
+    <version>2.0.0.0</version> <!-- نسخه جدید -->
+    <url>http://your-server.com/YourAppSetup.exe</url> <!-- لینک دانلود فایل نصب جدید -->
+    <changelog>تغییرات اعمال شده در این نسخه</changelog>
+    <mandatory>false</mandatory> <!-- true: اجباری, false: اختیاری -->
+</app>
