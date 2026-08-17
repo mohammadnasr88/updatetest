@@ -1,6 +1,6 @@
 <app>
     <version>2.0.0.0</version> <!-- نسخه جدید -->
-    <url>http://https://github.com/mohammadnasr88/updatetest/releases/download/app_v2/Imj.zip</url> <!-- لینک دانلود فایل نصب جدید -->
+    <url>https://github.com/mohammadnasr88/updatetest/releases/download/app_v2/Imj.zip</url> <!-- لینک دانلود فایل نصب جدید -->
     <changelog>تغییرات اعمال شده در این نسخه</changelog>
     <mandatory>false</mandatory> <!-- true: اجباری, false: اختیاری -->
 </app>
